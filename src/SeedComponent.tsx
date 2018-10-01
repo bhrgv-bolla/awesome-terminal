@@ -7,7 +7,9 @@ export interface SeedComponentProps {
 }
 
 export default class SeedComponent extends React.Component<SeedComponentProps, void> {
+
   render() {
+
     const { text } = this.props;
 
     return (

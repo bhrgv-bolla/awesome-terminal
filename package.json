@@ -37,6 +37,7 @@
     "builder-react-comp-dev": "~0.1.6"
   },
   "dependencies": {
-    "builder-react-comp": "~0.1.6"
+    "builder-react-comp": "~0.1.6",
+    "xterm": "^3.7.0"
   }
 }
